@@ -1,2 +1,2 @@
-# quoridor
-MinMax and MonteCarlo methods applied to Quoridor game
+# Quoridor
+MinMax and Monte Carlo methods applied to Quoridor game
